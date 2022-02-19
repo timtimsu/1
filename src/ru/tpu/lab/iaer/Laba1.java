@@ -6,6 +6,6 @@ package ru.tpu.lab.iaer;/*
 public class Laba1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        System.out.println("Hello world add changes");
     }
 }
